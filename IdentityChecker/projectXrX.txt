@@ -1,0 +1,18 @@
+Unnamed drone project-
+
+Image recognition
+-Need a script  that can take a photo and run that outputted image through the face check api
+-Drone needs the ability to lock  onto targets face and snap a pic
+-Using returned J-son Data to provide top results and likliehood of a  match to the terminal 
+
+
+FaceID acc/pw
+VWZ2-TZQT-5IZI
+
+Potential additions -
+Following capability 
+touch screen dpad controls 
+eng take off and landing
+Ai for advanced  decision making (name gathering ,white page lookup etc)
+
+
