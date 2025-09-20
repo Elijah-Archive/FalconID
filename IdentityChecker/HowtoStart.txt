@@ -1,0 +1,19 @@
+FalconID-
+
+Image recognition
+All that’s required is a **FaceCheck API token** and an **image source**.  
+The system was built to be easily connected with a **DJI Tello drone**,  
+allowing aerial capture and automatic reverse search from a live video feed.  
+
+
+
+
+
+Potential additions -
+Following capability 
+touch screen dpad controls 
+eng take off and landing
+Ai for advanced  decision making (name gathering ,white page lookup etc)
+
+
+
